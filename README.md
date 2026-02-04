@@ -17,6 +17,8 @@ Part-3 (Web Application):
 Install requirements → pip install -r Part-3/requirements.txt  
 Run → python Part-3/app.py  
 Open in browser → http://127.0.0.1:5000  
+Note: This is a locally hosted Flask application and runs on localhost.
+
 The web application accepts input file, weights, impacts and email ID, then sends the TOPSIS result CSV file to the provided email.
 
 Author: Mehak  
