@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: Topsis-Mehak-102303792
+Version: 1.0.1
+Summary: Python package implementing TOPSIS method
+Author: Mehak
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: openpyxl
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: summary
+
+# Topsis-Mehak-102303792
+
+Python package implementing TOPSIS method.
+
+## Installation
+pip install Topsis-Mehak-102303792
+
+## Usage
+topsis input.xlsx "1,1,1,1,1" "+,+,-,+,+" result.csv
